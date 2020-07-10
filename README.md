@@ -7,8 +7,8 @@
 ###  Hi, I'm Bruna 
 
 📚 Student at Faculdade de Tecnologia do Estado de São Paulo [Fatec Ipiranga] <br>
-👩‍💻 Currently I work as a web developer
-📍 I was born and raised in São Paulo - SP, Brazil 
+👩‍💻 Currently I work as a web developer <br>
+📍 I was born and raised in São Paulo - SP, Brazil where I live right now <br>
   
 
 ### Links 🔗
@@ -16,7 +16,7 @@
 🐦 https://twitter.com/batbrn <br>
 💼 https://www.linkedin.com/in/brunarafaela/ <br>
 🌎 https://dev.to/brunarafaela <br>
-🖊️ https://codepen.io/brunarafaela
+🖊️ https://codepen.io/brunarafaela <br>
 
 Or contact me at
 
