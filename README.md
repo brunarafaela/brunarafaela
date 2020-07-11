@@ -13,7 +13,6 @@
 
 ### Links 🔗
 
-🐦 https://twitter.com/batbrn <br>
 💼 https://www.linkedin.com/in/brunarafaela/ <br>
 🌎 https://dev.to/brunarafaela <br>
 🖊️ https://codepen.io/brunarafaela <br>
