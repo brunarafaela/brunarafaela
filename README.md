@@ -21,3 +21,8 @@ Or contact me at
 
 📧 brunarafaelav@outlook.com
 </samp>
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=brunarafaela.visitor-badge">
+ <p/>
+
