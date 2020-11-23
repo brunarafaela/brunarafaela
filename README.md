@@ -3,7 +3,7 @@
 
 ###  Hi, I'm Bruna 
 
-📚 Student at Faculdade de Tecnologia do Estado de São Paulo [Fatec Ipiranga] <br>
+📚 Analysis and systems development - Faculdade de Tecnologia do Estado de São Paulo <br>
 💻 Currently I work as a web developer <br>
 📍 I was born and raised in São Paulo - SP, Brazil where I live right now <br>
  
