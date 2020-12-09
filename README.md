@@ -4,8 +4,8 @@
 ###  Hi, I'm Bruna 
 
 📚 Analysis and systems development - Faculdade de Tecnologia do Estado de São Paulo <br>
-💻 Currently I work as a web developer <br>
-📍 I was born and raised in São Paulo - SP, Brazil where I live right now <br>
+💻 Currently I work as a front-end developer at enube.me <br>
+📍 Based in São Paulo - SP, Brazil <br>
  
 
 ### Links 🔗
