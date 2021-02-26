@@ -10,7 +10,8 @@
 
 ### Links 🔗
 
-🖊️ https://brunalima.tech/ <br>
+- https://brunalima.tech/ <br>
+- https://devchallenges.io/portfolio/brunarafaela <br>
 
 Contact me at
 
