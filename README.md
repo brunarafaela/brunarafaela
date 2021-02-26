@@ -10,8 +10,7 @@
 
 ### Links 🔗
 
-🌎 https://dev.to/brunarafaela <br>
-🖊️ https://codepen.io/brunarafaela <br>
+🖊️ https://brunalima.tech/ <br>
 
 Contact me at
 
