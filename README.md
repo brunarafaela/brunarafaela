@@ -12,6 +12,7 @@
 
 - https://brunalima.tech/portfolio <br />
 - https://devchallenges.io/portfolio/brunarafaela <br />
+- https://www.instagram.com/bruna.dev/
 
 ### Contact me at
 
