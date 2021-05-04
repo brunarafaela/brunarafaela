@@ -8,12 +8,12 @@
 📚 Leaning Vue.js <br />
 📍 Based in São Paulo - SP, Brazil <br />
 
-### Links 🔗
+### Links 
 
 - https://brunalima.tech/portfolio <br />
 - https://devchallenges.io/portfolio/brunarafaela <br />
 
-Contact me at
+### Contact me at
 
 📧 brunarafaelav@outlook.com
 </samp>
