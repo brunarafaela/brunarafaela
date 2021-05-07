@@ -5,7 +5,7 @@
 
 🎓 Analysis and systems development - Faculdade de Tecnologia do Estado de São Paulo <br />
 💻 Currently I work as a web developer - freelancer (php)<br />
-📚 Leaning Vue.js <br />
+📚 Learning Vue.js <br />
 📍 Based in São Paulo - SP, Brazil <br />
 
 ### Links 
