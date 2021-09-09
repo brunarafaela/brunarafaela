@@ -12,7 +12,7 @@
 
 - https://devchallenges.io/portfolio/brunarafaela <br />
 - https://www.instagram.com/bruna.dev/ <br />
-- https://dev.to/brunarafaela <br />
+- https://www.linkedin.com/in/brunarafaela/ <br />
 
 
 ### Contact me at
