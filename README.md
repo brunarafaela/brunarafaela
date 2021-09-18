@@ -17,5 +17,5 @@
 
 ### Contact me at
 
-📧 contato@brunalima.tech
+📧 brunarafaelav@outlook.com
 </samp>
