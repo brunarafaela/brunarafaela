@@ -10,7 +10,6 @@
 
 ### Links 
 
-- https://devchallenges.io/portfolio/brunarafaela <br />
 - https://www.instagram.com/bruna.dev/ <br />
 - https://www.linkedin.com/in/brunarafaela/ <br />
 
