@@ -8,13 +8,4 @@
 💻 Front-end developer, working with PHP/WordPress<br />
 📚 Currently learning Vue.js, Typescript <br />
 
-### Links 
-
-- https://www.instagram.com/bruna.dev/ <br />
-- https://www.linkedin.com/in/brunarafaela/ <br />
-
-
-### Contact me at
-
-📧 brunarafaelav@outlook.com
 </samp>
